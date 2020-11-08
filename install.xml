@@ -3,7 +3,7 @@
   <name>Fix Twig Template</name>
   <code>default</code>
   <version>1.0</version>
-  <author>Webiggle Digital Agency</author>
+  <author>Sahil Bhatia</author>
   <link>https://www.webiggle.com</link>
   <file path="system/library/template/twig.php">
     <operation>
